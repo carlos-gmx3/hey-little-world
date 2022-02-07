@@ -1,4 +1,4 @@
-# hey-little-world
+# Hey-Little-World
 Mi primer repositorio profesional
 
 Autor: Carlos García
